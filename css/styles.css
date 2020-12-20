@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+}
+
+#headpan{
+  background-color: lightblue;
+}
+
+#panhead{
+  background-color: lightblue;
+}
+  
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  margin: auto;
+  padding: 0;
+  height: 100%;
+}
+  
+fieldset{
+  text-overflow: clip;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  border-color: transparent;
+  padding: 20px;
+  margin: auto;
+  margin-top:20px;
+}
+  
+.wrapper {
+  min-width: 320px;
+  height: auto;
+}
+  
+.submitButton{
+  color:white;
+}
+  
+.submitButton{
+  background-color: blue;
+  display: inline-block;
+  margin-top: 10px;
+  border: none;
+  padding: 15px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+}
+  
+.footer {
+  padding: 1rem;
+  display: block;
+  background-color:rgba(33.3%, 33.3%, 33.3%, 0.3);
+  text-align: center;
+  bottom: 0;
+  position:fixed;
+  width: 100%;
+}
+  
+.banner {
+  overflow:hidden;
+  background-color:#2994DA;
+  text-align: center;
+}
